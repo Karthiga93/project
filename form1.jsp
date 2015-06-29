@@ -5,7 +5,7 @@
 <body>
 <%
   
-    String username = request.getParameter("userName");
+    String username = request.getParameter("username");
     String password = request.getParameter("password");
  
    
